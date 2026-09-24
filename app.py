@@ -883,7 +883,7 @@ with st.sidebar:
     st.markdown("### 🟢 Estado")
 
     st.markdown("""
-    <div class="status-card">
+    <div class="tool-card">
     🟢 <b>Asistente activo</b><br>
     Modelo: GPT-OSS-20B<br>
     Motor: Groq
